@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <style>
+/*--------------------------------------------------------------------------------------------- * Copyright (c) Microsoft Corporation. All rights reserved. * Licensed under the MIT License. See License.txt in the project root for license information. *--------------------------------------------------------------------------------------------*/ body { font-family: "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback"; font-size: 14px; padding: 0 12px; line-height: 22px; word-wrap: break-word; } body.scrollBeyondLastLine { margin-bottom: calc(100vh - 22px); } body.showEditorSelection .code-line { position: relative; } body.showEditorSelection .code-active-line:before, body.showEditorSelection .code-line:hover:before { content: ""; display: block; position: absolute; top: 0; left: -12px; height: 100%; } body.showEditorSelection li.code-active-line:before, body.showEditorSelection li.code-line:hover:before { left: -30px; } .vscode-light.showEditorSelection .code-active-line:before { border-left: 3px solid rgba(0, 0, 0, 0.15); } .vscode-light.showEditorSelection .code-line:hover:before { border-left: 3px solid rgba(0, 0, 0, 0.40); } .vscode-dark.showEditorSelection .code-active-line:before { border-left: 3px solid rgba(255, 255, 255, 0.4); } .vscode-dark.showEditorSelection .code-line:hover:before { border-left: 3px solid rgba(255, 255, 255, 0.60); } .vscode-high-contrast.showEditorSelection .code-active-line:before { border-left: 3px solid rgba(255, 160, 0, 0.7); } .vscode-high-contrast.showEditorSelection .code-line:hover:before { border-left: 3px solid rgba(255, 160, 0, 1); } img { max-width: 100%; max-height: 100%; } a { color: #4080D0; text-decoration: none; } a:focus, input:focus, select:focus, textarea:focus { outline: 1px solid -webkit-focus-ring-color; outline-offset: -1px; } hr { border: 0; height: 2px; border-bottom: 2px solid; } h1 { padding-bottom: 0.3em; line-height: 1.2; border-bottom-width: 1px; border-bottom-style: solid; } h1, h2, h3 { font-weight: normal; } h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { font-size: inherit; line-height: auto; } a:hover { color: #4080D0; text-decoration: underline; } table { border-collapse: collapse; } table > thead > tr > th { text-align: left; border-bottom: 1px solid; } table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table > tbody > tr > td { padding: 5px 10px; } table > tbody > tr + tr > td { border-top: 1px solid; } blockquote { margin: 0 7px 0 5px; padding: 0 16px 0 10px; border-left: 5px solid; } code { font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback"; font-size: 14px; line-height: 19px; } body.wordWrap pre { white-space: pre-wrap; } .mac code { font-size: 12px; line-height: 18px; } code > div { padding: 16px; border-radius: 3px; overflow: auto; } /** Theming */ .vscode-light { color: rgb(30, 30, 30); } .vscode-dark { color: #DDD; } .vscode-high-contrast { color: white; } .vscode-light code { color: #A31515; } .vscode-dark code { color: #D7BA7D; } .vscode-light code > div { background-color: rgba(220, 220, 220, 0.4); } .vscode-dark code > div { background-color: rgba(10, 10, 10, 0.4); } .vscode-high-contrast code > div { background-color: rgb(0, 0, 0); } .vscode-high-contrast h1 { border-color: rgb(0, 0, 0); } .vscode-light table > thead > tr > th { border-color: rgba(0, 0, 0, 0.69); } .vscode-dark table > thead > tr > th { border-color: rgba(255, 255, 255, 0.69); } .vscode-light h1, .vscode-light hr, .vscode-light table > tbody > tr + tr > td { border-color: rgba(0, 0, 0, 0.18); } .vscode-dark h1, .vscode-dark hr, .vscode-dark table > tbody > tr + tr > td { border-color: rgba(255, 255, 255, 0.18); } .vscode-light blockquote, .vscode-dark blockquote { background: rgba(127, 127, 127, 0.1); border-color: rgba(0, 122, 204, 0.5); } .vscode-high-contrast blockquote { background: transparent; border-color: #fff; }
+</style>
+<style>
+/* Tomorrow Theme */ /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */ /* Original theme - https://github.com/chriskempson/tomorrow-theme */ /* Tomorrow Comment */ .hljs-comment, .hljs-quote { color: #8e908c; } /* Tomorrow Red */ .hljs-variable, .hljs-template-variable, .hljs-tag, .hljs-name, .hljs-selector-id, .hljs-selector-class, .hljs-regexp, .hljs-deletion { color: #c82829; } /* Tomorrow Orange */ .hljs-number, .hljs-built_in, .hljs-builtin-name, .hljs-literal, .hljs-type, .hljs-params, .hljs-meta, .hljs-link { color: #f5871f; } /* Tomorrow Yellow */ .hljs-attribute { color: #eab700; } /* Tomorrow Green */ .hljs-string, .hljs-symbol, .hljs-bullet, .hljs-addition { color: #718c00; } /* Tomorrow Blue */ .hljs-title, .hljs-section { color: #4271ae; } /* Tomorrow Purple */ .hljs-keyword, .hljs-selector-tag { color: #8959a8; } .hljs { display: block; overflow-x: auto; color: #4d4d4c; padding: 0.5em; } .hljs-emphasis { font-style: italic; } .hljs-strong { font-weight: bold; }
+</style>
+<style>
+ul.contains-task-list { padding-left: 0; } ul ul.contains-task-list { padding-left: 40px; } .task-list-item { list-style-type: none; } .task-list-item-checkbox { vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'HelveticaNeue-Light', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="go-on-vacation-800">go on vacation - $800</h1>
+<p>why you shoudl consider this</p>
+<ol>
+<li>this is not hard on anyone and same amount woudl be spent regardless</li>
+<li>several people independantly drew the same conclusion</li>
+<li>what's there to lose</li>
+</ol>
+<p>how will this go down</p>
+<ul>
+<li>go somewhere and only spend what was given</li>
+<li>add some money and do something more</li>
+</ul>
+<h2 id="theme-ideas">theme ideas</h2>
+<table>
+<thead>
+<tr>
+<th>theme</th>
+<th>features</th>
+<th>detals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>toronto</td>
+<td>airbnb tours, maple syrup</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>ski house</td>
+<td>mountain views, less expensive, skiing</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>cabin in the hills</td>
+<td>views, chill at nice cabin, visit farm</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>hocking hills</td>
+<td>walk around, enjoy mediocre forest</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>place on the river</td>
+<td>like cabin in the hills only on the river</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>smoky mountains</td>
+<td>gatlinburg activities</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>appalachian mountains</td>
+<td>missing teeth</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>shenandoah valley</td>
+<td>nothing</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>dc</td>
+<td>be stressed out</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>amish</td>
+<td>buy their stuff</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>beach</td>
+<td>sit</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>on the farm</td>
+<td>pet</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>mansion grounds carriage house</td>
+<td>look</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>monticello</td>
+<td>look</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>williamsburg</td>
+<td>look</td>
+<td><a href="">link to page</a></td>
+</tr>
+<tr>
+<td>on large grounds</td>
+<td>explore</td>
+<td><a href="">link to page</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="selection-matrix">selection matrix</h2>
+<pre><code>| features          | setting          | activites             |
+| ----------------- | ---------------- | --------------------- |
+| cozy              | hill-top         | trails & scenery      |
+| non-cozy          | valley           | canoeing              |
+| hot tub           | river-front      | boat                  |
+| lots of windows   | hill-side        | grounds/gardens/parks |
+| decks             | old down-town    | horse-back riding     |
+| kitchen nice-ness | on the beach     | museums               |
+| king size bed     | modern down-town | historical sites      |
+| nice furniture    | farm             | shops                 |
+| soaking tub       | grounds features | farms                 |
+| games             |                  | train ride            |
+| well-appointed    |                  |                       |
+| historic          |                  |                       |
+</code></pre>
+<p>Cabin in Hocking Hills</p>
+<ol>
+<li>
+<p><a href="http://www.bellalunalogcabin.com/">bella luna</a>  ~290</p>
+</li>
+<li>
+<p><a href="https://www.cabinsbythecaves.com/the-barn-pumpkin-ridge.htm">the barn</a> ~205</p>
+</li>
+</ol>
+
+    </body>
+    </html>
