@@ -12,6 +12,24 @@ how will this go down
 * go somewhere and only spend what was given
 * add some money and do something more
 
+activities (implemented per trip)
+
+* enjoy scenery/setting
+    * trail - bike/hike
+    * train/boat/airplane
+    * canoe
+* interesting
+    * museum
+    * historical site
+    * landmark
+    * grounds visit
+* experience
+    * airbnb tour
+    * shopping
+    * hot tub/soaking tub
+    * nice place
+    * travel stop-offs
+
 ## theme ideas
 | theme                          | features                                  | detals           |
 | ------------------------------ | ----------------------------------------- | ---------------- |
@@ -56,9 +74,27 @@ how will this go down
 
 
 Cabin in Hocking Hills
+=======================================================================================================
 
 
 1. [bella luna](http://www.bellalunalogcabin.com/)  ~290 (250)
 
 2. [the barn](https://www.cabinsbythecaves.com/the-barn-pumpkin-ridge.htm) ~205
 
+Shenandoah Valley
+=======================================================================================================
+* enjoy scenery/setting
+    * trail - bike/hike
+    * train/boat/airplane
+    * canoe
+* interesting
+    * museum
+    * historical site
+    * landmark
+    * grounds visit
+* experience
+    * airbnb tour
+    * shopping
+    * hot tub/soaking tub
+    * nice place
+    * travel stop-offs
