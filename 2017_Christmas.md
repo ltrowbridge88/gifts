@@ -106,18 +106,10 @@ Hocking Hills
 
 Shenandoah Valley
 =======================================================================================================
-* enjoy scenery/setting
-    * trail - bike/hike
-    * train/boat/airplane
-    * canoe
-* interesting
-    * museum
-    * historical site
-    * landmark
-    * grounds visit
-* experience
-    * airbnb tour
-    * shopping
-    * hot tub/soaking tub
-    * nice place
-    * travel stop-offs
+* [Things To Do](https://www.tripadvisor.com/Attractions-g3635782-Activities-Shenandoah_Valley_Virginia.html)
+    * [Luray Caverns](https://media-cdn.tripadvisor.com/media/photo-f/00/18/5d/82/luray-caverns.jpg)
+    * [Museum of Shenan Valley - Windchester](https://www.tripadvisor.com/Attraction_Review-g58318-d561581-Reviews-Museum_of_the_Shenandoah_Valley-Winchester_Virginia.html)
+    * [Museum of Transportation - Roanoke](https://www.tripadvisor.com/Attraction_Review-g58134-d278984-Reviews-Virginia_Museum_of_Transportation-Roanoke_Virginia.html)
+    * [Stonewall Jackson House - Lexington](https://www.tripadvisor.com/Attraction_Review-g57896-d207461-Reviews-Stonewall_Jackson_House-Lexington_Virginia.html)
+    * [Frontier Museum - Staunton](https://www.tripadvisor.com/Attraction_Review-g58210-d270608-Reviews-Frontier_Culture_Museum-Staunton_Virginia.html)
+    * [Ranch/Riding](http://www.therockingsranch.com/)
