@@ -73,13 +73,20 @@ activities (implemented per trip)
 | historic          |                  |                       |
 ```
 
-
-
-
-Cabin in Hocking Hills
+Toronto
 =======================================================================================================
 
-| place                                                                        | pic1                                                                         | pic2                                                                          |
+| place                                                                                                                                       | pic1                                                                                                                                     | pic2                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [blue house](https://www.airbnb.com/rooms/11461586?wl_source=list&wl_id=252802933&role=wishlist_collaborator&adults=1&children=0&infants=0) | ![cc](https://a0.muscache.com/im/pictures/ba45a97c-975b-45e0-95e8-0af230cd65ca.jpg?aki_policy=xx_large)                                  | ![cc_ins](https://a0.muscache.com/im/pictures/6a95217d-9b71-4048-9609-975af54b1cbb.jpg?aki_policy=x_large)                                |
+| [pent house](https://www.airbnb.com/rooms/21021909?wl_source=list&wl_id=252802933&role=wishlist_collaborator&adults=1&children=0&infants=0) | ![pent_h](https://www.airbnb.com/rooms/21021909?wl_source=list&wl_id=252802933&role=wishlist_collaborator&adults=1&children=0&infants=0) | ![pent_in](https://www.airbnb.com/rooms/21021909?wl_source=list&wl_id=252802933&role=wishlist_collaborator&adults=1&children=0&infants=0) |
+
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## _*Cabin in Hocking Hills*_ 
+## ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| _*Hocking Hills*_                                                            | outside                                                                      | inside                                                                        |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [bella luna](http://www.bellalunalogcabin.com/)  ~290 (250)                  | ![bella luna](http://www.bellalunalogcabin.com/images/2011-loftbedroom1.jpg) | ![porch](http://www.bellalunalogcabin.com/images/2011-deck.jpg)               |
 | [the barn](https://www.cabinsbythecaves.com/the-barn-pumpkin-ridge.htm) ~205 | ![the barn](https://www.cabinsbythecaves.com/images/pumpkin-ridge_28.jpg)    | ![barn_putside](https://www.cabinsbythecaves.com/images/pumpkin-ridge_12.jpg) |
