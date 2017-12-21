@@ -31,25 +31,25 @@ activities (implemented per trip)
     * travel stop-offs
 
 ## theme ideas
-| theme                          | features                                  | detals                                                     |
-| ------------------------------ | ----------------------------------------- | ---------------------------------------------------------- |
-| toronto                        | airbnb tours, maple syrup                 | [link to page](https://www.airbnb.com/wishlists/252802933) |
-| ski house                      | mountain views, less expensive, skiing    | [link to page](https://www.airbnb.com/wishlists/252878206) |
-| cabin in the hills             | views, chill at nice cabin, visit farm    | [link to page]()                                           |
-| hocking hills                  | walk around, enjoy mediocre forest        | [link to page]()                                           |
-| place on the river             | like cabin in the hills only on the river | [link to page]()                                           |
-| smoky mountains                | gatlinburg activities                     | [link to page]()                                           |
-| appalachian mountains          | missing teeth                             | [link to page]()                                           |
-| shenandoah valley              | nothing                                   | [link to page]()                                           |
-| dc                             | be stressed out                           | [link to page]()                                           |
-| amish                          | buy their stuff                           | [link to page]()                                           |
-| beach                          | sit                                       | [link to page]()                                           |
-| on the farm                    | pet                                       | [link to page]()                                           |
-| mansion grounds carriage house | look                                      | [link to page]()                                           |
-| monticello                     | look                                      | [link to page]()                                           |
-| williamsburg                   | look                                      | [link to page]()                                           |
-| on large grounds               | explore                                   | [link to page]()                                           |
-| michigan                       |                                           |                                                            |
+| theme                          | features                                  | detals                                                    |
+| ------------------------------ | ----------------------------------------- | --------------------------------------------------------- |
+| toronto                        | airbnb tours, maple syrup                 | [AirBNB List](https://www.airbnb.com/wishlists/252802933) |
+| ski house                      | mountain views, less expensive, skiing    | [AirBNB List](https://www.airbnb.com/wishlists/252878206) |
+| cabin in the hills             | views, chill at nice cabin, visit farm    | [link to page]()                                          |
+| hocking hills                  | walk around, enjoy mediocre forest        | [link to page]()                                          |
+| place on the river             | like cabin in the hills only on the river | [link to page]()                                          |
+| smoky mountains                | gatlinburg activities                     | [link to page]()                                          |
+| appalachian mountains          | missing teeth                             | [link to page]()                                          |
+| shenandoah valley              | nothing                                   | [link to page]()                                          |
+| dc                             | be stressed out                           | [link to page]()                                          |
+| amish                          | buy their stuff                           | [link to page]()                                          |
+| beach                          | sit                                       | [link to page]()                                          |
+| on the farm                    | pet                                       | [link to page]()                                          |
+| mansion grounds carriage house | look                                      | [link to page]()                                          |
+| monticello                     | look                                      | [link to page]()                                          |
+| williamsburg                   | look                                      | [link to page]()                                          |
+| on large grounds               | explore                                   | [link to page]()                                          |
+| michigan                       |                                           |                                                           |
 
 
 ## selection matrix
