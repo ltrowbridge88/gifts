@@ -76,6 +76,19 @@ activities (implemented per trip)
 Toronto
 =======================================================================================================
 
+* AirBNB Experience [Ultimate Gluten-Free Good Tour](https://www.airbnb.com/experiences/72287?source=wl)
+* Air BNB Experience [Kayak Nature Trip in Toronto](https://www.airbnb.com/experiences/99992?source=wl)
+* Lake
+* Skiing
+* [Trip Advisor Things To Do](https://www.tripadvisor.com/Attractions-g155019-Activities-Toronto_Ontario.html)
+    * [Ripleys Aquarium](https://www.tripadvisor.com/Attraction_Review-g155019-d5031404-Reviews-Ripley_s_Aquarium_Of_Canada-Toronto_Ontario.html) ~ $60
+    * [Niagara Falls Tour](https://www.tripadvisor.com/AttractionProductDetail-g155019-d11448318-Niagara_Falls_Day_Trip_from_Toronto-Toronto_Ontario.html) ~$250
+    * [Toronto Islands](https://www.tripadvisor.com/Attraction_Review-g155019-d185115-Reviews-Toronto_Islands-Toronto_Ontario.html)
+    * [Royal Ontario Museum](https://www.tripadvisor.com/Attraction_Review-g155019-d155481-Reviews-Royal_Ontario_Museum-Toronto_Ontario.html) ~30
+    * [Saint Lawrence Market](https://www.tripadvisor.com/Attraction_Review-g155019-d185112-Reviews-St_Lawrence_Market-Toronto_Ontario.html) 
+    * [CN Tower](https://www.tripadvisor.com/Attraction_Review-g155019-d155483-Reviews-CN_Tower-Toronto_Ontario.html)
+
+
 | place                                                                                                                                       | pic1                                                                                                       | pic2                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [blue house](https://www.airbnb.com/rooms/11461586?wl_source=list&wl_id=252802933&role=wishlist_collaborator&adults=1&children=0&infants=0) | ![cc](https://a0.muscache.com/im/pictures/ba45a97c-975b-45e0-95e8-0af230cd65ca.jpg?aki_policy=xx_large)    | ![cc_ins](https://a0.muscache.com/im/pictures/6a95217d-9b71-4048-9609-975af54b1cbb.jpg?aki_policy=x_large)  |
