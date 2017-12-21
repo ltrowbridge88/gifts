@@ -35,11 +35,11 @@ activities (implemented per trip)
 | ------------------------------ | ----------------------------------------- | ------------------------------------------------------------------- |
 | toronto                        | airbnb tours, maple syrup                 | [AirBNB List](https://www.airbnb.com/wishlists/252802933)           |
 | ski house                      | mountain views, less expensive, skiing    | [AirBNB List](https://www.airbnb.com/wishlists/252878206)           |
-| cabin in the hills             | views, chill at nice cabin, visit farm    | [link to page]()                                                    |
+| cabin in the hills             | views, chill at nice cabin, visit farm    | [AirBNB List](https://www.airbnb.com/wishlists/252708773)           |
 | hocking hills                  | walk around, enjoy mediocre forest        | [hockinghills.com/cabins](https://www.hockinghills.com/cabins.html) |
 | place on the river             | like cabin in the hills only on the river | [link to page]()                                                    |
-| smoky mountains                | gatlinburg activities                     | [link to page]()                                                    |
-| appalachian mountains          | missing teeth                             | [link to page]()                                                    |
+| smoky mountains                | gatlinburg activities                     | [link to page](https://www.airbnb.com/wishlists/252724446)          |
+| appalachian mountains          | missing teeth                             | [AirBNB List](https://www.airbnb.com/wishlists/252708773)           |
 | shenandoah valley              | nothing                                   | [link to page]()                                                    |
 | dc                             | be stressed out                           | [link to page]()                                                    |
 | amish                          | buy their stuff                           | [link to page]()                                                    |
